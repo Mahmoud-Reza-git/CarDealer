@@ -113,7 +113,7 @@ nav.navbar.navbar-dark .nav-link:hover {
 	color: #333;
 }
 
-.navbar.bg-white button {
+.navbar.bg-black button {
 	border-color: rgba(51, 51, 51, 0.6);
 }
 
@@ -125,7 +125,7 @@ nav.navbar.navbar-dark .nav-link:hover {
 /* === Hero ===*/
 
 .hero-bg {
-	background: url('../img/bg-hero.jpg') 50% 0 fixed no-repeat;
+	background: url('../img/bg-Home.jpg') 50% 0 fixed no-repeat;
 	height: 100vh;
 	background-size: cover;
 }
@@ -150,10 +150,10 @@ nav.navbar.navbar-dark .nav-link:hover {
 }
 
 
-/* === Die Bohnen ===*/
+
 
 .bohne-bg {
-	background: url('../img/bg-bohne.jpg') 50% 0 fixed no-repeat;
+	background: url('../img/bg_Home.jpg') 50% 0 fixed no-repeat;
 	height: 100%;
 	background-size: cover;
 }
@@ -166,7 +166,7 @@ nav.navbar.navbar-dark .nav-link:hover {
 /* === Testimonials ===*/
 
 .testimonials-bg {
-	background: url('../img/bg-testimonials.jpg') 50% 0 fixed no-repeat;
+	background: url('../img/bgoverlly.jpg') 50% 0 fixed no-repeat;
 	height: 100%;
 	background-size: cover;
 }
@@ -204,7 +204,7 @@ nav.navbar.navbar-dark .nav-link:hover {
 /* === Newsletter ===*/
 
 .newsletter-bg {
-	background: url('../img/bg-newsletter.jpg') 50% 0 fixed no-repeat;
+	background: url('../img/bgnews.jpg') 50% 0 fixed no-repeat;
 	height: 100%;
 	background-size: cover;
 }
@@ -259,4 +259,14 @@ p,
 button,
 a {
 	filter: blur(0);
+}
+
+.datepicker td, .datepicker th {
+    width: 2.5rem;
+    height: 2.5rem;
+    font-size: 0.85rem;
+}
+
+.datepicker {
+    margin-bottom: 3rem;
 }

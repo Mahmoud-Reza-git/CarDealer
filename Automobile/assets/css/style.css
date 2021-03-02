@@ -125,7 +125,7 @@ nav.navbar.navbar-dark .nav-link:hover {
 /* === Hero ===*/
 
 .hero-bg {
-	background: url('../img/bg-hero.jpg') 50% 0 fixed no-repeat;
+	background: url('../img/bg_Home.jpg') 50% 0 fixed no-repeat;
 	height: 100vh;
 	background-size: cover;
 }
